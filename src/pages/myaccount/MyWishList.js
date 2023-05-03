@@ -1,7 +1,6 @@
 import { TabContext, TabList, TabPanel } from '@mui/lab';
 import { Box, Card, Grid, Rating, Tab, Typography } from '@mui/material'
 import React from 'react'
-import JustFor from '../../component/home/justforyou/JustFor';
 import BasicCard from '../../layout/basiccard/BasicCard';
 import saledata from '../../component/home/flashsale/Data';
 
